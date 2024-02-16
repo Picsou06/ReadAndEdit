@@ -1,0 +1,6 @@
+Database:
+  Host: "DB-IP"
+  Port: Port
+  Name: "Database-Name"
+  ID: "Database-ID"
+  MDP: "Database-MDP"
